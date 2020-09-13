@@ -4,7 +4,7 @@
 
 // path of WAV file
 // ÒôÆµÂ·¾¶ 
-#define wavPath "WindowsXP.wav"
+#define wavPath "Windows XP startup.wav"
 
 int main(int argc,char *argv[])
 {
