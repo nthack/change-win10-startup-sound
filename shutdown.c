@@ -12,9 +12,6 @@ int main(int argc,char *argv[])
 	// 第一时间隐藏终端窗口
 	ShowWindow(FindWindow("ConsoleWindowClass",argv[0]),0);
 	
-	// 等待登陆界面，等待加载声卡驱动
-	// Wait for the login view and load the sound drive 
-	Sleep(1000);
 	
 	// Playing....
 	// 播放 
